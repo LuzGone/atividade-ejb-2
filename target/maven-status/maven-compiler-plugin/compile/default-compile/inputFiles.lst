@@ -1,0 +1,8 @@
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/ejbs/UsuarioDAO.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/ejbs/MensagemService.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/ejbs/UsuarioService.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/model/Mensagem.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/ejbs/MensagemDAO.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/model/Usuario.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/servlets/UsuarioServlet.java
+/home/gonzaga/Coding/pratica-ejb-2-bancos/src/main/java/com/gugawag/pdist/servlets/MensagemServlet.java
